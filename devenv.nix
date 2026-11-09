@@ -8,6 +8,7 @@
     ruff
     basedpyright
     codecrafters-cli
+    redis
   ];
 
   languages.python = {
